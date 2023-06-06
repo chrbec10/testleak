@@ -1,4 +1,4 @@
   "AadClientId": "31368f5f-c678-46cf-a0e1-598a2afeb702",
-  "AadSecret": "MHd8Q~pjBG-KmFw5T53L9O.KQIrSRQcj4XcPtc0o",
+  "AadSecret": "yXq8Q~tjdOiYd92hMkYpRojzk81RLNwKcx3KLbPZ",
   "AadTenantDomain": "tis.systems",
   "AadTenantId": "4cb9e789-a813-4b44-9c61-3c676991dfd2",
